@@ -1,6 +1,17 @@
-# Mentorship Booking and Payment Application
+<h1 align="center" id="title">Mentor-Student Scheduling Application</h1>
 
-A React.js application that handles booking and payment processing for a mentorship platform.
+
+
+<p id="description">The Mentor-Student Scheduling Application is a robust platform designed to facilitate scheduling mock interviews for MBA students with experienced mentors. The system automates the scheduling process prioritizes mentor availability and manages payments for premium and standard sessions all through an intuitive and responsive user interface.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://drive.google.com/file/d/1-QKUD2RuElWVQjsX\_aTlzw5GMkSrf3k\_/view?usp=sharing](https://drive.google.com/file/d/1-QKUD2RuElWVQjsX_aTlzw5GMkSrf3k_/view?usp=sharing)
+<h2>Website Link</h2>
+  <a href="https://career-carve-frontend.onrender.com/" target="_blank" rel="noopener noreferrer">Visit CareerCarve Mini Project</a>
+
+  
+
 
 ## Features
 
@@ -28,8 +39,9 @@ A React.js application that handles booking and payment processing for a mentors
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/mentorship-booking-payment.git
-    cd mentorship-booking-payment
+    git clone https://github.com/SaantalaSuresh/Career-Carve-full-stack.git
+    cd backend
+    cd frontend
     ```
 
 2. Install dependencies:
@@ -60,13 +72,8 @@ A React.js application that handles booking and payment processing for a mentors
 - `GET /api/mentors`: Retrieve a list of available mentors.
 - `POST /api/bookings`: Create a new booking.
 
-## Environment Variables
 
-- `REACT_APP_BACKEND_URL`: The URL of the backend API.
 
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 
 
@@ -75,4 +82,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Acknowledgments
 
 - **React Router** for client-side routing
-- **Node.js** for backend API (not included in this repository)
+
